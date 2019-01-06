@@ -74,7 +74,7 @@ The model includes RELU layers to introduce nonlinearity (code line 66), and the
 
 The model I’ve implemented is the following
 
-<img src="./cnn.png" width=400 height=300 >
+<img src="./cnn.png" width=700 height=300 >
 
 
 #### 2. Attempts to reduce overfitting in the model
